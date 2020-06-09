@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577489227 source:e:\iti\dsproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ITI.h>
+

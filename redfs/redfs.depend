@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577487742 source:e:\iti\redfs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ITI.h>
+
